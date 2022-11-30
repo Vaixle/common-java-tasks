@@ -3,7 +3,7 @@
 ---
 
 ## Conntents:
-## - [Data structures](#Data structures) 
+## - [Data structures](#Data-structures) 
 
 ---
 
