@@ -3,35 +3,11 @@
 ---
 
 ## Conntents:
-## - [Data structures](https://github.com/Vaixle/common-java-tasks#datastructures) 
+## - [Data structures](#Data structures) 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Data structures
-
-
 
 | Task |  Solution  |
 |:-----|:--------:|
