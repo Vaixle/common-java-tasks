@@ -3,7 +3,7 @@
 ---
 
 ## Conntents:
-## - [Data structures](https://github.com/Vaixle/common-java-tasks/blob/main/src/main/java/com/vidle/dataStructures/copyArray.java) 
+## - [Data structures](https://github.com/Vaixle/common-java-tasks#datastructures) 
 
 ---
 
