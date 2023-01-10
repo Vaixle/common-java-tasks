@@ -19,4 +19,4 @@
 | Task                       |                                                             Solution                                                             |
 |:---------------------------|:--------------------------------------------------------------------------------------------------------------------------------:|
 | Find string with max legth |[**click**](https://github.com/Vaixle/common-java-tasks/blob/main/src/main/java/com/vidle/strings/findStringWithMaxLength.java)   |
-| Split and save delimiters  |[**click**](https://github.com/Vaixle/common-java-tasks/blob/main/src/main/java/com/vidle/strings/findStringWithMaxLength.java)   |
+| Split and save delimiters  |[**click**](https://github.com/Vaixle/common-java-tasks/blob/main/src/main/java/com/vidle/strings/splitWithRegexSaveDelimiters.java)   |
